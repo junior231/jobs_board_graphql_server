@@ -7,7 +7,7 @@ import jwt from "jsonwebtoken";
 import { User } from "./db.js";
 import { resolvers } from "./resolvers.js";
 
-const PORT = 9000;
+const PORT = process.env.PORT || 9000;
 const JWT_SECRET = Buffer.from("Zn8Q5tyZ/G1MHltc4F/gTkVJMlrbKiZt", "base64");
 
 const app = express();
