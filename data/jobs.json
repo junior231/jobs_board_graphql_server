@@ -16,5 +16,17 @@
     "title": "QA Tester",
     "description": "You must be skilled at finding bugs and checking for efficiency",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "23X-9qpmV9xr0fpuxXq8k",
+    "title": "Product Manager",
+    "description": "The developers need a product to work on so, your responsibility is to provide one.",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "yLxj3b07MdX6PDSbuYxk-",
+    "title": "Latest Job",
+    "description": "Testing Cache update after job creation.",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   }
 ]
